@@ -66,3 +66,24 @@ body{
 .slack>div{
     border-radius: 30px;
 }
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #4a154b;
+    text-align: center;
+  }
+  .footer p {
+  text-decoration: none;
+  color: #fff;
+  }
+  .footer a {
+    text-decoration: none;
+    color: #36c5f0;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+    color: #ecb22e;
+  }
